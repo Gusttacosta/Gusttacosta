@@ -12,7 +12,7 @@ Paraense, nascido em 05/2000 e criado aqui com muito orgulho!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/>
 
-- Trabalho com analise de dados no Ministerio Publico de contas do estado do Pará, também desenvolvo algumas ferramentas no powerapps e faço algumas controbuições no excel.
+- Trabalho com analise de dados no Ministerio Publico de contas do estado do Pará, também desenvolvo algumas ferramentas no powerapps e faço algumas contribuições no excel.
                    
 # Também ja trabalhei com:
 
